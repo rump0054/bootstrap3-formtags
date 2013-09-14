@@ -2,15 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b70cd742-f370-4dbe-8499-b53da5381a86" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\Bootstrap3FormtagsGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\BuildConfig$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\BuildConfig$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\BuildConfig$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\BuildConfig$_run_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\BuildConfig$_run_closure1_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\BuildConfig$_run_closure1_closure5_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\Config$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\Config.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3_closure4_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3_closure5_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3_closure6_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource$_run_closure3_closure6_closure9_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\DataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\UrlMappings$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\UrlMappings$__clinit__closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\UrlMappings$__clinit__closure1_closure2_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\UrlMappings.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\bootstrap3\formtags\FormTagsTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\bootstrap3-formtags\target\classes\com\erikrumppe\PluginsTagLib.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap3-formtags-grailsPlugins.iml" afterPath="$PROJECT_DIR$/bootstrap3-formtags-grailsPlugins.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap3-formtags.iml" afterPath="$PROJECT_DIR$/bootstrap3-formtags.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bootstrap3-formtags.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/Dummy.txt" changelist="b70cd742-f370-4dbe-8499-b53da5381a86" time="1379181343488" ignored="false" />
+    <file path="/Dummy.txt" changelist="b70cd742-f370-4dbe-8499-b53da5381a86" time="1379182031057" ignored="false" />
     <file path="/Bootstrap3FormtagsGrailsPlugin.groovy" changelist="b70cd742-f370-4dbe-8499-b53da5381a86" time="1379180890280" ignored="false" />
-    <file path="/a.dummy" changelist="b70cd742-f370-4dbe-8499-b53da5381a86" time="1379181307699" ignored="false" />
+    <file path="/a.dummy" changelist="b70cd742-f370-4dbe-8499-b53da5381a86" time="1379181998401" ignored="false" />
+    <file path="/FormTagsTagLib.groovy" changelist="b70cd742-f370-4dbe-8499-b53da5381a86" time="1379182158819" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +98,17 @@
     <favorites_list name="bootstrap3-formtags" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="FormTagsTagLib.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/taglib/com/erumppe/plugins/FormTagsTagLib.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="4" selection-start="84" selection-end="84" vertical-scroll-proportion="0.15205725">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -89,6 +129,7 @@
         <option value="$PROJECT_DIR$/Bootstrap3FormtagsGrailsPlugin.groovy" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/taglib/com/erumppe/plugins/FormTagsTagLib.groovy" />
       </list>
     </option>
   </component>
@@ -236,7 +277,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -247,7 +288,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.6717949" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.6717949" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -335,9 +376,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="351" selection-end="351" vertical-scroll-proportion="0.3649374">
+        <state line="25" column="9" selection-start="680" selection-end="680" vertical-scroll-proportion="0.7602996">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/taglib/com/erumppe/plugins/FormTagsTagLib.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="84" selection-end="84" vertical-scroll-proportion="0.15205725">
           <folding />
         </state>
       </provider>
@@ -349,8 +404,8 @@
         <entry key="bootstrap3-formtags">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="764857950" />
-              <option name="pluginDependenciesCrc" value="-1628843415" />
+              <option name="buildConfigCrc" value="466346783" />
+              <option name="pluginDependenciesCrc" value="884370751" />
               <option name="properties">
                 <map>
                   <entry key="grails.global.plugins.dir" value="C:\Users\Erik\.grails\2.2.4\global-plugins" />
