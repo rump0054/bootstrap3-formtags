@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bootstrap3-formtags.iml" filepath="$PROJECT_DIR$/bootstrap3-formtags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap3-formtags-grailsPlugins.iml" filepath="$PROJECT_DIR$/bootstrap3-formtags-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
