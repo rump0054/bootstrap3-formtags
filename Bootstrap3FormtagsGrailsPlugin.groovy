@@ -10,22 +10,23 @@ class Bootstrap3FormtagsGrailsPlugin {
 
     // TODO Fill in these fields
     def title = "Bootstrap3 Formtags Plugin" // Headline display name of the plugin
-    def author = "Your name"
-    def authorEmail = ""
+    def author = "Erik Rumppe"
+    def authorEmail = "erikrumppe@gmail.com"
     def description = '''\
-Brief summary/description of the plugin.
+A form taglib that is configure to output Twitter Bootstrap3 boilerplate code.  Inspired by and using some of
+the plugin sourcecode from the nerdErg Taglib V2.0 - check them out https://github.com/nerdErg
 '''
 
     // URL to the plugin's documentation
-    def documentation = "http://grails.org/plugin/bootstrap3-formtags"
+    //def documentation = "http://grails.org/plugin/bootstrap3-formtags"
 
     // Extra (optional) plugin metadata
 
     // License: one of 'APACHE', 'GPL2', 'GPL3'
-//    def license = "APACHE"
+    def license = "MIT"
 
     // Details of company behind the plugin (if there is one)
-//    def organization = [ name: "My Company", url: "http://www.my-company.com/" ]
+    def organization = [ name: "Erik Rumppe", url: "https://github.com/ErikRumppe" ]
 
     // Any additional developers beyond the author specified above.
 //    def developers = [ [ name: "Joe Bloggs", email: "joe@bloggs.net" ]]
@@ -34,36 +35,5 @@ Brief summary/description of the plugin.
 //    def issueManagement = [ system: "JIRA", url: "http://jira.grails.org/browse/GPMYPLUGIN" ]
 
     // Online location of the plugin's browseable source code.
-//    def scm = [ url: "http://svn.codehaus.org/grails-plugins/" ]
-
-    def doWithWebDescriptor = { xml ->
-        // TODO Implement additions to web.xml (optional), this event occurs before
-    }
-
-    def doWithSpring = {
-        // TODO Implement runtime spring config (optional)
-    }
-
-    def doWithDynamicMethods = { ctx ->
-        // TODO Implement registering dynamic methods to classes (optional)
-    }
-
-    def doWithApplicationContext = { applicationContext ->
-        // TODO Implement post initialization spring config (optional)
-    }
-
-    def onChange = { event ->
-        // TODO Implement code that is executed when any artefact that this plugin is
-        // watching is modified and reloaded. The event contains: event.source,
-        // event.application, event.manager, event.ctx, and event.plugin.
-    }
-
-    def onConfigChange = { event ->
-        // TODO Implement code that is executed when the project configuration changes.
-        // The event is the same as for 'onChange'.
-    }
-
-    def onShutdown = { event ->
-        // TODO Implement code that is executed when the application shuts down (optional)
-    }
+    def scm = [ url: "https://github.com/ErikRumppe/bootstrap3-formtags" ]
 }

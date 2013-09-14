@@ -1,1 +1,2 @@
-A Groovy on Grails forms taglib configure with Twitter Bootstrap 3 boilerplate.
+A form taglib that is configure to output Twitter Bootstrap3 boilerplate code.  Inspired by and using some of
+the plugin sourcecode from the nerdErg Taglib V2.0 - check them out https://github.com/nerdErg
